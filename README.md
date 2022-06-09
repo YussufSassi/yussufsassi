@@ -17,7 +17,7 @@
 technologies/languages:
 - <b>Javascript / Typescript</b> (+ frameworks/libraries: React(next), Vue (nuxt), Svelte(kit), jQuery, Express, (Discord.js) etc.)
 - <b>Python</b> (General programming with python, (+ frameworks/libraries: Flask, Django, FastAPI, Discord.py / Nextcord))
-- <b>Basic knowledge (can build something useful with some help from google and stackoverflow): </b> Go, Rust, C#, C++, Kotlin
+- <b>Basic knowledge (can build something useful with some help from google and stackoverflow): </b> Go, Rust, C#, C++, Kotlin, Dart (Flutter), PHP
 - <b>MongoDB</b>
 
 <details>
